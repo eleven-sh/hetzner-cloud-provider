@@ -1,0 +1,9 @@
+active_context = "dev"
+
+[[contexts]]
+  name = "dev"
+  token = "abcdef"
+
+[[contexts]]
+  name = "production"
+  token = "123456"
