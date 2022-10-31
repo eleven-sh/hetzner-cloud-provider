@@ -214,7 +214,9 @@ In other words:
 
 ## Infrastructure costs
 
-The cost of running a sandbox on Hetzner is equal to the cost of the `server` used.
+The cost of running a sandbox on Hetzner is equal to the cost of the cloud `server` used.
+
+All other components are 100% free.
 
 ## License
 
