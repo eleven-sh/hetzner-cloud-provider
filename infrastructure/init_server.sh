@@ -163,7 +163,7 @@ EOF
 
 log "Installing the Eleven agent"
 
-ELEVEN_AGENT_VERSION="0.0.1"
+ELEVEN_AGENT_VERSION="0.0.2"
 ELEVEN_AGENT_TMP_ARCHIVE_PATH="/tmp/eleven-agent.tar.gz"
 ELEVEN_AGENT_NAME="eleven-agent"
 ELEVEN_AGENT_DIR="/usr/local/bin"
